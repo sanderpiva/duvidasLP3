@@ -1,0 +1,12 @@
+Referencias de base de dados: Origem: Kanggle
+
+1-McDonald's Índia: conjunto de dados de nutrição do menu
+Informações Nutricionais para os itens do cardápio indiano do McDonald's
+https://www.kaggle.com/datasets/deepcontractor/mcdonalds-india-menu-nutrition-facts
+(India_Menu)
+
+
+2-Conjunto de dados de previsão de aluguel de casa
+Este conjunto de dados contém informações sobre mais de 4700 casas disponíveis para aluguel
+https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset 23 ago 2022
+(House_Rent_Dataset)
